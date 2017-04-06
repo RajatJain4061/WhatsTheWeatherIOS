@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE326EDE1E9689C60026F219 /* linas-bam-223729.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE326EDD1E9689C60026F219 /* linas-bam-223729.jpg */; };
 		CE4894AB1E95312F00AD0AD7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4894AA1E95312F00AD0AD7 /* AppDelegate.swift */; };
 		CE4894AD1E95312F00AD0AD7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4894AC1E95312F00AD0AD7 /* ViewController.swift */; };
 		CE4894B01E95312F00AD0AD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE4894AE1E95312F00AD0AD7 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE326EDD1E9689C60026F219 /* linas-bam-223729.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "linas-bam-223729.jpg"; sourceTree = "<group>"; };
 		CE4894A71E95312E00AD0AD7 /* Whats The Weather?.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whats The Weather?.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4894AA1E95312F00AD0AD7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE4894AC1E95312F00AD0AD7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				CE4894AA1E95312F00AD0AD7 /* AppDelegate.swift */,
 				CE4894AC1E95312F00AD0AD7 /* ViewController.swift */,
 				CE4894AE1E95312F00AD0AD7 /* Main.storyboard */,
+				CE326EDD1E9689C60026F219 /* linas-bam-223729.jpg */,
 				CE4894B41E95312F00AD0AD7 /* Assets.xcassets */,
 				CE4894B61E95312F00AD0AD7 /* LaunchScreen.storyboard */,
 				CE4894B91E95312F00AD0AD7 /* Info.plist */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4894B81E95312F00AD0AD7 /* LaunchScreen.storyboard in Resources */,
+				CE326EDE1E9689C60026F219 /* linas-bam-223729.jpg in Resources */,
 				CE4894B51E95312F00AD0AD7 /* Assets.xcassets in Resources */,
 				CE4894B01E95312F00AD0AD7 /* Main.storyboard in Resources */,
 			);
@@ -303,6 +307,7 @@
 				CE4894BE1E95312F00AD0AD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
